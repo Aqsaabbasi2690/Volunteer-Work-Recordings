@@ -8,7 +8,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Webinar:** [50 minutes recording_video](https://www.youtube.com/watch?v=XjZlSS-HtAs)
 
 
-## LeetCode Lectures
+## Python Lectures
 - **Lecture 1:** [recording_video](https://www.facebook.com/watch/?v=1184404316841274&rdid=f9DUv0Q1fB5WkU6p)
 - **Lecture 2:** [recording_video](https://www.facebook.com/share/v/17MMECt1ft/)
 - **Lecture 3:** [recording_video](https://www.facebook.com/share/v/177wrHvbBm/)
