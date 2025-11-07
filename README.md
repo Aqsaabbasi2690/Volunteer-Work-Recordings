@@ -4,8 +4,10 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 
 # Webinars 
 
- ## 1. Webinar on Meta Hacker Cup.
+ ## 1. Webinar on UC Berkely CALCIO Fall 2025.
 - **Webinar:** [ recording_video](https://www.youtube.com/watch?v=rcwmU6P6KUo)
+- **Slides:** [Slides](https://docs.google.com/presentation/d/1u5r_mU398Grd-bOdDzE0Zsovy6SjSxZ3c7gVgDy5AcM/edit?slide=id.p1#slide=id.p1)
+- **Linkedin Post:** [Linkedin](https://www.linkedin.com/posts/aqsa-abbasi-441444372_sometimes-all-it-takes-is-one-step-out-of-activity-7387506908271886338-RFm1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxB8XEBkbCqfRKyIUD3FFM-GabMVHjNRDc)
 
 
 ## Python Lectures
