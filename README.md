@@ -10,6 +10,10 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Linkedin Post:** [Linkedin](https://www.linkedin.com/posts/aqsa-abbasi-441444372_sometimes-all-it-takes-is-one-step-out-of-activity-7387506908271886338-RFm1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxB8XEBkbCqfRKyIUD3FFM-GabMVHjNRDc)
 
 
+ ## 1.  Webinar on Meta Hacker Cup.
+- **Slides:** [Slides](https://www.canva.com/design/DAG1lchRFR0/IjrLMcs_8uQxQuQO_Wmh3g/edit)
+- **Linkedin Post:** [Linkedin](https://www.linkedin.com/posts/aqsa-abbasi-441444372_metahackercup-codingcompetition-webinar-activity-7384213380493975555-w9wP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxB8XEBkbCqfRKyIUD3FFM-GabMVHjNRDc)
+
 ## Python Lectures
 - **Lecture 1:** [recording_video](https://www.facebook.com/watch/?v=1184404316841274&rdid=f9DUv0Q1fB5WkU6p)
 - **Lecture 2:** [recording_video](https://www.facebook.com/share/v/17MMECt1ft/)
