@@ -5,7 +5,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 # Webinars 
 
  ## 1. Webinar on Meta Hacker Cup.
-- **Webinar:** [50 minutes recording_video](https://www.youtube.com/watch?v=XjZlSS-HtAs)
+- **Webinar:** [ recording_video](https://www.youtube.com/watch?v=rcwmU6P6KUo)
 
 
 ## Python Lectures
